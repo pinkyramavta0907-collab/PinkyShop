@@ -1,2 +1,3 @@
-# PinkyShop
-Full-Stack E-Commerce Website using PHP and MySQL
+## 🚀 Live Demo
+
+[Open PinkyShop](https://pinkyshop.ifree.page/)
